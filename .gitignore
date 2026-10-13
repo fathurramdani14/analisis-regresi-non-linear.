@@ -1,0 +1,15 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Generated outputs
+*.png
+*.pdf
+*.csv
+output/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
